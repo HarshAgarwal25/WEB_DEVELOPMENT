@@ -1,0 +1,27 @@
+body{
+  background-color: #522546;
+  margin:1px;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+h1{
+  margin: 1px;
+  font-family:'Sacramento',cursive;
+  font-size: 80px;
+}
+div{
+  background-color: #e23e57;
+  position: relative;
+  padding: 100px;
+}
+.cloud1{
+  height: 7vw;
+}
+.bottom-cloud1{
+  position:absolute;
+}
+.top-cloud1{
+  position: absolute;
+  top: 20px;
+  right:400px;
+}
